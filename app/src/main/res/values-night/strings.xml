@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="under_weight">Under weight</string>
+    <string name="ideal_weight">Ideal Weight</string>
+    <string name="over_weight">Over weight</string>
+    <string name="obesity_grade_I">Obesity Grade I</string>
+    <string name="obesity_grade_II">Obesity Grade II</string>
+    <string name="obesity_grade_III">Obesity Grade III</string>
+</resources>
